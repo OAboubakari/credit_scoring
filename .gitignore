@@ -1,7 +1,5 @@
 # Models
-models/
-*.pkl
-*.joblib
+
 
 # Data
 data/
