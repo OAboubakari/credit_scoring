@@ -180,6 +180,6 @@ L’application permet à l’utilisateur :
 
 # Auteur
 
-Projet développé par Ouedraogo Aboubakari, Ingenieur Data - Diplomé de l'ISAE-ISM SupMéca 
+Projet développé par Ouedraogo Aboubakari, Ingenieur Data - Diplomé de l'ISAE-ISM SupMéca Paris
 
 
