@@ -165,8 +165,21 @@ L’application permet à l’utilisateur :
 
 ---
 
+## Application en ligne
+
+[Scoring de Credit](https://credit-scoring-xrf1.onrender.com)
+
+---
+
+## Contact
+
+- Nom : Ouedraogo Aboubakari
+- Email : ouederson@gmail.com
+- Contacts : +225 0707 306 490
+- GitHub : [Mon GitHub](https://github.com/OAboubakari)
+
 # Auteur
 
-Projet développé par Ouedraogo Aboubakari
+Projet développé par Ouedraogo Aboubakari, Ingenieur Data - Diplomé de l'ISAE-ISM SupMéca 
 
 
